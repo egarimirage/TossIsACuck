@@ -1,0 +1,6 @@
+[package]
+name = "fall_back"
+version = "0.1.0"
+authors = ["DrunkFlamingo <matte901@gmail.com>"]
+
+[dependencies]
