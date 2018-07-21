@@ -1,3 +1,0 @@
-# untracked files
-$ cat .git/info/exclude
-/target/
